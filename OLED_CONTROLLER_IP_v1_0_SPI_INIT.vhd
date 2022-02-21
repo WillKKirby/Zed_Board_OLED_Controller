@@ -1,3 +1,7 @@
+-- Title - OLED_Initalization
+-- Designer - Will K
+--
+-- Based on code from mmattioli - https://github.com/mmattioli/ZedBoard-OLED
 --
 -- Logic block for the initalistion of the OLED display. 
 -- This block is run when the system starts or when reset. 
